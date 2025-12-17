@@ -6,7 +6,7 @@
 ## Staff / Senior Backend Engineer
 
 **📍 Maadi, Cairo, Egypt**  
-📧 enas9022@yahoo.com | 📱 (+20) 120 329 8102  
+📧 enas9022@yahoo.com   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/enasahmed)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/enasellithy)
 
