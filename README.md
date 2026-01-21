@@ -75,8 +75,7 @@ Staff-level Backend Engineer with 9+ years of experience designing and scaling e
 ## 🚀 Featured Projects
 
 ### **HR AI Chatbot**
-[![Demo](https://img.shields.io/badge/Live_Demo-FF6B6B)](https://huggingface.co/spaces/enasellithy/hr-chatbot)
-[![Code](https://img.shields.io/badge/Source_Code-181717?logo=github)](https://github.com/enasellithy/hr-chatbot)
+[![Code]([https://img.shields.io/badge/Source_Code-181717?logo=github)](https://github.com/enasellithy/hr-chatbot](https://github.com/enasellithy/hr_mnual_bot)
 
 Domain-specific HR chatbot with hybrid logic layer using BlenderBot (Hugging Face).
 
