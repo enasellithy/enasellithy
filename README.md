@@ -75,14 +75,13 @@ Staff-level Backend Engineer with 9+ years of experience designing and scaling e
 ## 🚀 Featured Projects
 
 ### **HR AI Chatbot**
-[![Code]([https://img.shields.io/badge/Source_Code-181717?logo=github)](https://github.com/enasellithy/hr-chatbot](https://github.com/enasellithy/hr_mnual_bot)
+[![Code](https://github.com/enasellithy/hr_mnual_bot)
 
 Domain-specific HR chatbot with hybrid logic layer using BlenderBot (Hugging Face).
 
 **Tech:** Python, Hugging Face, Transformers, Flask
 
 ### **Tas Accounting System**
-[![Live](https://img.shields.io/badge/Live_System-4CAF50)](https://tas.live)
 
 Multi-tenant accounting management system with electronic invoicing.
 
