@@ -103,7 +103,6 @@ Medical appointment system with radiology models integration.
 
 ## 📫 Contact
 
-- **Email:** enas9022@yahoo.com
 - **LinkedIn:** [linkedin.com/in/enasahmed](https://linkedin.com/in/enasahmed)
 - **GitHub:** [github.com/enasellithy](https://github.com/enasellithy)
 
