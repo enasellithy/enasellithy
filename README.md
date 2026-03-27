@@ -74,6 +74,11 @@ Staff-level Backend Engineer with 9+ years of experience designing and scaling e
 
 ## 🚀 Featured Projects
 
+### Packges
+### AI Docs And unit Test auto generate 
+[![Code]([https://github.com/enasellithy/Chat-bot-with-llms](https://github.com/enasellithy/Chat-bot-with-llms](https://github.com/enasellithy/SmartAIDocs)
+
+
 ### **HR AI Chatbot**
 [![Code](https://github.com/enasellithy/Chat-bot-with-llms)
 
