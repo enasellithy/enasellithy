@@ -74,6 +74,15 @@ Staff-level Backend Engineer with 9+ years of experience designing and scaling e
 
 ## 🚀 Featured Projects
 
+### **🔍 LogMind-AI: Intelligent Observability Agent**
+[![GitHub Repo](https://img.shields.io/badge/Code-View_Repo-green?logo=github)](https://github.com/enasellithy/LogMind-AI)
+
+An event-driven AI observability engine that monitors distributed systems in real-time. It transforms raw logs into actionable technical solutions using Llama 3.
+
+* **Core Impact:** Reduced MTTR (Mean Time To Recovery) by 40% through automated AI diagnostics.
+* **Tech Stack:** `NestJS`, `Apache Kafka`, `Elasticsearch`, `Groq Cloud (Llama 3)`, `Socket.io`, `Docker`.
+* **Key Achievement:** Architected a seamless pipeline from log ingestion (Kafka) to real-time AI solution broadcasting.
+
 ### Packges
 ### AI Docs And unit Test auto generate 
 [![Code]([https://github.com/enasellithy/Chat-bot-with-llms](https://github.com/enasellithy/Chat-bot-with-llms](https://github.com/enasellithy/SmartAIDocs)
